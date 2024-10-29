@@ -10,7 +10,7 @@ const Header = () => {
         {/* Logo Section */}
         <a href="#" className="flex items-center gap-3">
           <img src={logo} alt="Zone360 Logo" className="w-16 h-16 object-contain" />
-          <span className="text-purple-800 font-extrabold text-2xl">DI-ZONE360</span>
+          <span className="text-purple-800 font-extrabold text-2xl">ZONE360</span>
         </a>
 
         {/* Search Bar Section */}
