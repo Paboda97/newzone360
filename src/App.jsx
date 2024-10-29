@@ -1,4 +1,3 @@
-// src/App.jsx
 import React from 'react';
 import Header from './comp/Header.jsx';
 import Navbar from './comp/Navbar.jsx';
